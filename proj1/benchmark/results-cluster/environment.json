@@ -1,0 +1,13 @@
+{
+  "platform": "Linux-6.8.0-87-generic-x86_64-with-glibc2.35",
+  "machine": "x86_64",
+  "host": "p001",
+  "cpu_count": 32,
+  "go": "go version go1.19.13 linux/amd64",
+  "slurm_job": "2615879",
+  "partition": "peanut-cpu",
+  "gomaxprocs": "16",
+  "date": "2026-10-29 21:14:27 CDT",
+  "repeats": 5,
+  "png_compression": "BestSpeed (lossless)"
+}
